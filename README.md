@@ -14,4 +14,3 @@
         |
         |Jumbotron.vue
 ```
-..
