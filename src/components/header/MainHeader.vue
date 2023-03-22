@@ -18,10 +18,14 @@ export default {
         <AppTitle></AppTitle>
     </div>
 
-    <div>
+    <div class="jumbo">
         <Jumbotron></Jumbotron>
     </div>
 </template>
 
 <!-- CSS  -->
-<style scoped></style>
+<style scoped>
+.jumbo {
+    margin-top: 150px;
+}
+</style>
