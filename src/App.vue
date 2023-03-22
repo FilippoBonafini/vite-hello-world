@@ -1,10 +1,12 @@
 <script>
 import MainHeader from './components/header/MainHeader.vue';
 import Main from './components/main/Main.vue';
+import Footer from './components/footer/Footer.vue';
 export default {
   components: {
     MainHeader,
-    Main
+    Main,
+    Footer
   }
 }
 </script>
@@ -14,8 +16,8 @@ export default {
     <MainHeader></MainHeader>
     <div class="mainSection">
       <Main></Main>
-      <Main></Main>
     </div>
+    <Footer></Footer>
   </div>
 </template>
 

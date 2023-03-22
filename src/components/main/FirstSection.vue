@@ -31,7 +31,6 @@ export default {
     background-color: #F6836B;
     padding: 20px;
     border-radius: 20px;
-    margin: auto;
     display: flex;
     justify-content: center;
     align-items: center;
